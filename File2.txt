@@ -1,0 +1,5 @@
+Second file on single branch
+
+Modifying second file on local GitHub Desktop
+
+Line was added in Branch one.
